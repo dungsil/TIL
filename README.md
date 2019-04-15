@@ -4,5 +4,11 @@
 2. 이해한 내용에 대해서만 작성
 3. 아직 정리 중이거나 이해하지 못한 부분이 있는 경우 **draft/** 브런치에서 보완하여 머지
 
-## 라이선스
-이 저장소의 글은 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)를 따릅니다. 출처·참조가 존재하는 게시글에 대해서는 적용되지 않습니다.
+이 저장소의 글은 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)를 따릅니다.
+
+---
+
+---
+
+## 기타
+ - [무한 ping](./etc/190415__무한_ping.md)
