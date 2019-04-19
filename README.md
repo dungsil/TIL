@@ -7,8 +7,12 @@
 이 저장소의 글은 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)를 따릅니다.
 
 ---
-
+ - [리눅스](#리눅스)
+ - [기타](#기타)
 ---
+
+## 리눅스
+ - [SSD 확인하기](./linux/190419__SSD_확인하기.md)
 
 ## 기타
  - [무한 ping](./etc/190415__무한_ping.md)
